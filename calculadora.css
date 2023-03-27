@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Cookie&display=swap');
+
+
+body {
+    background-color:rgb(245, 239, 243); 
+    padding:  20px 100px 20px 100px;
+    
+
+   
+}
+
+h1 {
+    font-family: 'Cookie', cursive;
+    font-size: 50pt;
+    position: relative;
+    right:-200px;
+
+}
+
+div#principal {
+    background-color: aqua;
+    position:relative ;
+    
+}
+
+div #calculadora {
+    position: relative;
+    top: -150px;
+    right: -100px;
+
+}
