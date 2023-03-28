@@ -4,6 +4,7 @@
 body {
     background-color:rgb(245, 239, 243); 
     padding:  20px 100px 20px 100px;
+    margin: 20px 20px 20px 20px;
     
 
    
@@ -13,19 +14,31 @@ h1 {
     font-family: 'Cookie', cursive;
     font-size: 50pt;
     position: relative;
-    right:-200px;
+    right:-100px;
+    margin: 1px;
 
 }
 
 div#principal {
-    background-color: aqua;
-    position:relative ;
+    border-radius: 5%;
+    background-color: rgb(255, 129, 192);
+    background-size: 5px;
+    position:relative;
+    padding: 10px;
+    
     
 }
 
 div #calculadora {
     position: relative;
-    top: -150px;
-    right: -100px;
-
+    top: -115px;
+    right: -10px;
 }
+
+table {
+    position: relative;
+    margin: 10px;
+    left: 150px;
+}
+
+
